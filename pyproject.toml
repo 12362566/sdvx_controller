@@ -1,0 +1,12 @@
+[project]
+name = "sdvx-conter"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "adafruit-circuitpython-boardtest>=1.2.25",
+    "adafruit-circuitpython-hid>=6.1.8",
+    "circuitpython-ruhrohrotaryio>=1.0",
+    "circuitpython-stubs>=10.0.3",
+    "micropython-keypad>=0.6.0",
+]
