@@ -1,8 +1,8 @@
 import board
-import digitalio
+
 import keypad
 import usb_hid
-import time
+
 
 from adafruit_hid.keyboard import Keyboard
 from adafruit_hid.keycode import Keycode
